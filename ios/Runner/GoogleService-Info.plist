@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>704109270541-90rq9ue8ikr0igk1btuhtald2g3o5onj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.704109270541-90rq9ue8ikr0igk1btuhtald2g3o5onj</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>704109270541-3urp7ghaf73u2bpa4enhlkjhv5sva9el.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAeLvXRF1yfJ3CwR1unDu081oQX1JywXsY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>704109270541</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.quranapp</string>
+	<key>PROJECT_ID</key>
+	<string>quran-app-291ec</string>
+	<key>STORAGE_BUCKET</key>
+	<string>quran-app-291ec.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:704109270541:ios:5f6d30262eb3e5f5e26744</string>
+</dict>
+</plist>
